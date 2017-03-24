@@ -1,0 +1,7 @@
+#area-chart,
+#line-chart,
+#bar-chart,
+#stacked,
+#pie-chart{
+  max-width: 2000px;
+}
